@@ -9,3 +9,5 @@ joblib
 
 
 # MLOps
+dvc
+dvc_s3
